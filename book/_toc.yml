@@ -18,8 +18,8 @@ parts:
       - file: exercises/004.md
       - file: exercises/005.md
       - file: exercises/006.md
-    - file: some_content/Biologie.md
-    - file: some_content/Natuurkunde.md
+    # - file: some_content/Biologie.md
+    # - file: some_content/Natuurkunde.md
     - file: references.md
     - file: changelog.md
     - file: credits.md
