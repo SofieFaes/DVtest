@@ -1,6 +1,14 @@
 (intro)=
-# Welkom op deze testpagina om diagnostische vragen van de NVON te delen
+# Diagnostische vragen van de NVON
 
-_This is the first page the student will see when opening the url._
+
 
 Op wwww.diagnostischevragen.nl verzamelt de NVON diagnostische meerkeuzevragen voor biologie, natuurkunde, scheikunde en wiskunde. We testen of dt ook op deze manier kan. 
+
+
+
+```{figure} .[/path/to/figure.jpg](https://www.diagnostischevragen.nl/wp-content/uploads/2023/05/cropped-logo_diagnostische_vragen-2048x292.png)
+:name: label
+
+caption
+```
