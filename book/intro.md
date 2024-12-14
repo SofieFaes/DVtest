@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Welkom op deze testpagina om diagnostische vragen van de NVON te delen
 
 _This is the first page the student will see when opening the url._
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+Op wwww.diagnostischevragen.nl verzamelt de NVON diagnostische meerkeuzevragen voor biologie, natuurkunde, scheikunde en wiskunde. We testen of dt ook op deze manier kan. 
