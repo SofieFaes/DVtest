@@ -18,6 +18,7 @@ parts:
       - file: exercises/004.md
       - file: exercises/005.md
       - file: exercises/006.md
+    - file: Biologie
     - file: references.md
     - file: changelog.md
     - file: credits.md
