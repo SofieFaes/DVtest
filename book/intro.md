@@ -11,7 +11,3 @@ Op wwww.diagnostischevragen.nl verzamelt de NVON diagnostische meerkeuzevragen v
 
 ```{figure} https://www.diagnostischevragen.nl/wp-content/uploads/2023/05/cropped-logo_diagnostische_vragen-2048x292.png
 ```
-
-```{note}
-this is note
-```
